@@ -1,6 +1,0 @@
-dados = [
-    {"nome": "bulbasaur", "elemento": "grama", "ataque": "scratch"},
-    {"nome": "charmander", "elemento": "fogo", "ataque": "ember"},
-    {"nome": "squirtle", "elemento": "agua", "ataque": "bubble"},
-    {"nome": "pidgey", "elemento": "voador", "ataque": "scratch"},
-]
